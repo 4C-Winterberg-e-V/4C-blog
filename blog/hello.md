@@ -7,5 +7,6 @@ date: 2025-06-29
 ## test
 kfnsdlknfv
 
+![image](/blog/herosection.jpg)
 
 dlsknfsnldgk
