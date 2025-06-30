@@ -1,5 +1,5 @@
 ---
-title: My First Post
+title: My First Post great
 description: This is a great post
 date: 2025-06-29
 ---
